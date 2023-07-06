@@ -1,0 +1,35 @@
+{
+  "name": "logo-maker",
+  "version": "1.0.0",
+  "description": "A command-line application to generate simple logos using SVG format",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenjutsYou/Logo-Maker.git"
+  },
+  "keywords": [
+    "logo",
+    "SVG",
+    "command-line",
+    "generator",
+    "design"
+  ],
+  "author": "Arun Mundackal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenjutsYou/Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/GenjutsYou/Logo-Maker#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0",
+    "jest": "^25.0.0",
+    "jsdom": "^22.1.0",
+    "node-notifier": "^10.0.1",
+    "request": "^2.88.2",
+    "semver": "^7.5.3"
+  }
+}
