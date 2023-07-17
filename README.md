@@ -9,6 +9,7 @@ Generate Logo from user input
 ## Table of Contents
 
 - [Installation](#installation)
+- [Tests](#tests)
 - [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
@@ -17,6 +18,10 @@ Generate Logo from user input
 ## Installation
 
     git clone git@github.com:GenjutsYou/Logo-Maker.git
+
+## Tests
+
+    npm start
 
 ## Credits
 
