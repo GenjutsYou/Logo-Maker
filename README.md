@@ -9,14 +9,14 @@ Generate Logo from user input
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](#features)
-- [Contribution](#contribution)
-- [Tests](#tests)
 - [Contact](#contact)
 - [Link](#link)
+
+## Installation
+
+    git clone git@github.com:GenjutsYou/Logo-Maker.git
 
 ## Credits
 
