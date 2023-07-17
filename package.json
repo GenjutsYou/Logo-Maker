@@ -4,7 +4,8 @@
   "description": "A command-line application to generate simple logos using SVG format",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start" : "node index.js"
   },
   "repository": {
     "type": "git",
